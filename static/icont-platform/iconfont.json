@@ -1,0 +1,128 @@
+{
+  "id": "3654936",
+  "name": "icont-platform",
+  "font_family": "icont-platform",
+  "css_prefix_text": "icont-platform-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "515379",
+      "name": "推特_twitter43",
+      "font_class": "twitter-fill-circle",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "515380",
+      "name": "推特_twitter44",
+      "font_class": "twitter-line-circle",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "12579551",
+      "name": "twitter",
+      "font_class": "twitter-fill",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "21096851",
+      "name": "twitter",
+      "font_class": "twitter-line",
+      "unicode": "ece3",
+      "unicode_decimal": 60643
+    },
+    {
+      "icon_id": "704799",
+      "name": "telegram",
+      "font_class": "telegram-fill",
+      "unicode": "eaf9",
+      "unicode_decimal": 60153
+    },
+    {
+      "icon_id": "11982167",
+      "name": "telegram",
+      "font_class": "telegram-line",
+      "unicode": "e9ac",
+      "unicode_decimal": 59820
+    },
+    {
+      "icon_id": "705032",
+      "name": "web",
+      "font_class": "web-line",
+      "unicode": "eb8e",
+      "unicode_decimal": 60302
+    },
+    {
+      "icon_id": "16148267",
+      "name": "互联网on",
+      "font_class": "web-fill",
+      "unicode": "e82d",
+      "unicode_decimal": 59437
+    },
+    {
+      "icon_id": "2075064",
+      "name": "ios",
+      "font_class": "ios-fill",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2075247",
+      "name": "电话 (1)",
+      "font_class": "phone-fill",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2075254",
+      "name": "浏览器-IE",
+      "font_class": "ie-fill",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2075256",
+      "name": "淘宝",
+      "font_class": "taobao-fill",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2075258",
+      "name": "微博 (1)",
+      "font_class": "weibo-fill",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2075259",
+      "name": "微信",
+      "font_class": "weixin-fill",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2075260",
+      "name": "支付宝",
+      "font_class": "alipay-fill",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2075262",
+      "name": "qq",
+      "font_class": "qq-fill",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2325971",
+      "name": "安卓",
+      "font_class": "android-fill",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    }
+  ]
+}
